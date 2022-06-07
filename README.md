@@ -40,7 +40,7 @@ Or on Android using the following.
 
 ## Usage
 
-The app consists of two main screens, the Launch List and the About Me section.
+The app consists of two main screens that can be navigated to using the bottom tab bar, the Launch List and the About Me section.
 
 ### Launch List
 
@@ -48,4 +48,4 @@ The Launch List section contains a list of all upcoming launches, as well as a s
 
 ### About Me
 
-The About Me section includes name as well as my personal email address and phone number.
+The About Me section includes my name as well as my personal email address and phone number.
